@@ -44,28 +44,13 @@ Let's start up our development environment, use copilot to learn a bit about the
    - ❌ Original: `/skills/getting-started-with-github-copilot`
 
 1. Wait a moment for Visual Studio Code to load in your browser.
-1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot Chat` and `Python` extensions are installed and enabled.
-
-   <img width="350" alt="copilot extension for VS Code" src="https://github.com/skenny47/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
+1. In the left sidebar, click the Extensions tab and verify that the `Python` extension is installed and enabled. Copilot Chat is provided in VS Code and may not appear as a separate extension.
 
    <img width="350" alt="python extension for VS Code" src="https://github.com/skenny47/skills-getting-started-with-github-copilot/blob/main/.github/images/python-extension-vscode.png?raw=true" />
 
-   <details>
-   <summary>🔎 GitHub Copilot Chat extension missing ❓</summary>
-
-   If the GitHub Copilot Chat extension is missing for you, ensure you are signed in to GitHub Copilot. Find the **GitHub Copilot** icon on the bottom right of the VS Code window.
-
-   | Status bar icon                                                                                                         | Sign in required                                                                                         | Copilot active                                                                                                  |
-   | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-   | <img width="300" alt="Copilot menu prompting the user to use AI features" src="https://github.com/skenny47/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-sign-in-button.png?raw=true" /> | <img width="300" alt="Copilot chat sign in button" src="https://github.com/skenny47/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-sign-in-button-clicked.png?raw=true" /> | <img width="300" alt="Copilot menu showing inline suggestions enabled" src="https://github.com/skenny47/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-signed-in.png?raw=true" /> |
-
-   You should be good to go at this point, even if the extension is still not visible in the extensions tab.
-
-   </details>
-
 1. Open Copilot Chat with `Ctrl+Alt+I` (Windows/Linux) or `Ctrl+Cmd+I` (macOS). If that shortcut doesn't work, open the Command Palette with `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS), search for **Chat: Focus on Chat View**, and select it.
 
-   > 🪧 **Note:** If this is your first time using GitHub Copilot, you may need to accept the usage terms to continue.
+   > 🪧 **Note:** If prompted, sign in with your GitHub account and accept the Copilot terms to continue.
 
 
 1. Make sure you are in **Ask Mode** for our first interaction
