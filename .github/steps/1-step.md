@@ -63,9 +63,7 @@ Let's start up our development environment, use copilot to learn a bit about the
 
    </details>
 
-1. At the top of VS Code, locate and click the **Toggle Chat icon** to open a Copilot Chat side panel.
-
-   <img width="150" alt="image" src="https://github.com/skenny47/skills-getting-started-with-github-copilot/blob/main/.github/images/toggle-chat-icon.png?raw=true" />
+1. Open Copilot Chat with `Ctrl+Alt+I` (Windows/Linux) or `Ctrl+Cmd+I` (macOS). If that shortcut doesn't work, open the Command Palette with `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS), search for **Chat: Focus on Chat View**, and select it.
 
    > 🪧 **Note:** If this is your first time using GitHub Copilot, you may need to accept the usage terms to continue.
 
